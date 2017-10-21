@@ -1,0 +1,16 @@
+# Pathways data
+
+A store with minimal data collection to perform pathways analysis with [pathways-analysis](https://github.com/kn-bibs/pathways-analysis) software.
+
+
+## For contributors
+
+Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into 'common' directory and placed in appropriate sub-directories.
+
+Before adding a file please double-check that its licence allows to re-distribute all content in this file.
+
+Each directory should contain a LICENCE file unless it has no non-directory children.
+
+In the LICENCE file please provide both: the full text to the licence and copyright information as used by the content owners;
+
+Additionally a link to a page with licence or terms of usage for given dataset is recommended.
