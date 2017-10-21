@@ -19,7 +19,7 @@ Also, when using this repository, please try to cache the downloaded files whene
 
 Before adding a file please double-check that its licence allows to re-distribute all content in this file.
 
-Each directory should contain a `LICENCE` file unless it has no non-directory children.
+Each directory is required to contain a `LICENCE` file unless it has no non-directory children and all children directories fulfill this condition.
 
 In the `LICENCE` file please provide both: the full text to the licence and copyright information as used by the content owners;
 Additionally a link to a page with licence or terms of usage for given dataset is recommended.
