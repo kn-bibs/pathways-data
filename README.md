@@ -5,12 +5,12 @@ A store with minimal data collection to perform pathways analysis with [pathways
 
 ## For contributors
 
-Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into 'common' directory and placed in appropriate sub-directories.
+Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into the `common` directory and be placed in an appropriate sub-directories.
 
 ### Always compress your files
 
-GitHub states clearly that users are limited to kind-of fair usage policy of the provided bandwidth, 
-and that excessive usage may result in account suspension or bandwidth throttling (see: [Terms of Service](# https://help.github.com/articles/github-terms-of-service/#7-excessive-bandwidth-use).
+GitHub states clearly that users are bound by kind of a fair usage policy of the provided bandwidth, 
+and that excessive usage may result in account suspension or bandwidth throttling (see: [Terms of Service](https://help.github.com/articles/github-terms-of-service/#7-excessive-bandwidth-use)).
 
 Just to be fair, we should always compress all files we include in the repository.
 Also, when using this repository, please try to cache the downloaded files whenever possible.
@@ -19,8 +19,7 @@ Also, when using this repository, please try to cache the downloaded files whene
 
 Before adding a file please double-check that its licence allows to re-distribute all content in this file.
 
-Each directory should contain a LICENCE file unless it has no non-directory children.
+Each directory should contain a `LICENCE` file unless it has no non-directory children.
 
-In the LICENCE file please provide both: the full text to the licence and copyright information as used by the content owners;
-
+In the `LICENCE` file please provide both: the full text to the licence and copyright information as used by the content owners;
 Additionally a link to a page with licence or terms of usage for given dataset is recommended.
