@@ -7,6 +7,16 @@ A store with minimal data collection to perform pathways analysis with [pathways
 
 Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into 'common' directory and placed in appropriate sub-directories.
 
+### Always compress your files
+
+GitHub states clearly that users are limited to kind-of fair usage policy of the provided bandwidth, 
+and that excessive usage may result in account suspension or bandwidth throttling (see: [Terms of Service](# https://help.github.com/articles/github-terms-of-service/#7-excessive-bandwidth-use).
+
+Just to be fair, we should always compress all files we include in the repository.
+Also, when using this repository, please try to cache the downloaded files whenever possible.
+
+### Always check and add a licence
+
 Before adding a file please double-check that its licence allows to re-distribute all content in this file.
 
 Each directory should contain a LICENCE file unless it has no non-directory children.
