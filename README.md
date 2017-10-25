@@ -5,7 +5,7 @@ A store with minimal data collection to perform pathways analysis with [pathways
 
 ## For contributors
 
-Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into the `common` directory and be placed in an appropriate sub-directories.
+Method-specific files should be placed in directories named after the method. Files common to multiple methods should go into the `common` directory and be placed in appropriate sub-directories.
 
 ### Always compress your files
 
